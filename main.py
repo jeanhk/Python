@@ -1,6 +1,9 @@
 import random  # Import statement should be at the top of the file
 
 
+#
+#Dicee
+#
 def get_number():
   return random.randint(1, 6)
   
